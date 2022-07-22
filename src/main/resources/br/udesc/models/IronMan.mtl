@@ -1,0 +1,68 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl Color_154
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.486275 0.007843 0.121569
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl Decoration_10908d1
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Luis\\Downloads\\lego-iron-man\\source\\Iron Man\\maps\\decoration\\10908d1.png
+map_Ks C:\\Users\\Luis\\Downloads\\lego-iron-man\\source\\Iron Man\\maps\\metalness\\10908d1_metal.png
+
+newmtl Decoration_3626d252
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Luis\\Downloads\\lego-iron-man\\source\\Iron Man\\maps\\decoration\\3626d252.png
+
+newmtl Decoration_3814d316
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Luis\\Downloads\\lego-iron-man\\source\\Iron Man\\maps\\decoration\\3814d316.png
+
+newmtl Decoration_3816d78
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Luis\\Downloads\\lego-iron-man\\source\\Iron Man\\maps\\decoration\\3816d78.png
+
+newmtl Decoration_3817d78
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Luis\\Downloads\\lego-iron-man\\source\\Iron Man\\maps\\decoration\\3817d78.png

@@ -1,0 +1,45 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl Color_21.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.839216 0.000000 0.117647
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl Decoration_15554d1
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Luis\\Downloads\\the-flash-lego-3d-model\\source\\Flash\\maps\\decoration\\15554d1.png
+
+newmtl Decoration_3626d160
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Luis\\Downloads\\the-flash-lego-3d-model\\source\\Flash\\maps\\decoration\\3626d160.png
+
+newmtl Decoration_3814d195
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Luis\\Downloads\\the-flash-lego-3d-model\\source\\Flash\\maps\\decoration\\3814d195.png

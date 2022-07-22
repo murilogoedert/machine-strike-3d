@@ -1,0 +1,67 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl MB_1_official_3398
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Luis\\Downloads\\lego-darth-vader-minifigure\\source\\textures\\MB_1_official_3398_baseColor.png
+
+newmtl MB_26
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.005182 0.005182 0.005182
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl MB_26_official_3393
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Luis\\Downloads\\lego-darth-vader-minifigure\\source\\textures\\MB_26_official_3393_baseColor.png
+
+newmtl MB_26_official_3394
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Luis\\Downloads\\lego-darth-vader-minifigure\\source\\textures\\MB_26_official_3394_baseColor.png
+
+newmtl MB_26_official_3395
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Luis\\Downloads\\lego-darth-vader-minifigure\\source\\textures\\MB_26_official_3395_baseColor.png
+
+newmtl MB_26_official_3396
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Luis\\Downloads\\lego-darth-vader-minifigure\\source\\textures\\MB_26_official_3396_baseColor.png
