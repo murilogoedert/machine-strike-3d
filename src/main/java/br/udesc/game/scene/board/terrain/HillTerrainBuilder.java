@@ -4,9 +4,9 @@ public class HillTerrainBuilder implements ITerrainBuilder{
 
     @Override
     public Terrain getResult() {
-        Terrain hillTerrain = new Terrain(4);
+        Terrain hillTerrain = new Terrain(5);
         hillTerrain.setPowerModifier(2);
-        hillTerrain.setTexture("src/main/resources/br/udesc/textures/hill.png");
+        hillTerrain.setTexture("src/main/resources/br/udesc/textures/hill.jpg");
         return hillTerrain;
     }
     

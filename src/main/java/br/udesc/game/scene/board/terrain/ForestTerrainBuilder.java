@@ -4,9 +4,9 @@ public class ForestTerrainBuilder implements ITerrainBuilder{
 
     @Override
     public Terrain getResult() {
-        Terrain ForestTerrain = new Terrain(3);
+        Terrain ForestTerrain = new Terrain(4);
         ForestTerrain.setPowerModifier(1);
-        ForestTerrain.setTexture("src/main/resources/br/udesc/textures/forest.png");
+        ForestTerrain.setTexture("src/main/resources/br/udesc/textures/forest.jpg");
         return ForestTerrain;
     }
     

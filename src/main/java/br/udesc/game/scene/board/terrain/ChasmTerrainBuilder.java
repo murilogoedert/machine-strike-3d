@@ -4,9 +4,9 @@ public class ChasmTerrainBuilder implements ITerrainBuilder{
 
     @Override
     public Terrain getResult() {
-        Terrain chasmTerrain = new Terrain(0);
+        Terrain chasmTerrain = new Terrain(1);
         chasmTerrain.setPowerModifier(-2);
-        chasmTerrain.setTexture("src/main/resources/br/udesc/textures/chasm.png");
+        chasmTerrain.setTexture("src/main/resources/br/udesc/textures/chasm.jpg");
         return chasmTerrain;
     }
     

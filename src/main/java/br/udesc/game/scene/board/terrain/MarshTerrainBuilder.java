@@ -4,9 +4,9 @@ public class MarshTerrainBuilder implements ITerrainBuilder {
 
     @Override
     public Terrain getResult() {
-        Terrain marshTerrain = new Terrain(1);
+        Terrain marshTerrain = new Terrain(2);
         marshTerrain.setPowerModifier(-1);
-        marshTerrain.setTexture("src/main/resources/br/udesc/textures/marsh.png");
+        marshTerrain.setTexture("src/main/resources/br/udesc/textures/marsh.jpg");
         return marshTerrain;
     }
     
