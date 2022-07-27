@@ -6,6 +6,7 @@ import com.interactivemesh.jfx.importer.obj.ObjModelImporter;
 
 import br.udesc.game.GameController;
 import javafx.animation.FadeTransition;
+import javafx.animation.ScaleTransition;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.scene.shape.MeshView;
@@ -32,10 +33,19 @@ public class MachineDeadState implements IMachineState{
             m.setScaleZ(50);
             m.translateYProperty().set(m.translateYProperty().get() - m.getBoundsInLocal().getHeight());
 
-            FadeTransition fadeout = new FadeTransition(Duration.seconds(3), m);
-            fadeout.setFromValue(1);
-            fadeout.setToValue(0);
-            fadeout.setOnFinished(new EventHandler<ActionEvent>() {
+
+            ScaleTransition trans = new ScaleTransition(Duration.seconds(3));
+            trans.setDelay(Duration.seconds(2));
+            trans.setNode(m);
+            trans.setFromX(50);
+            trans.setFromY(50);
+            trans.setFromZ(50);
+
+            trans.setToX(0);
+            trans.setToY(0);
+            trans.setToZ(0);
+
+            trans.setOnFinished(new EventHandler<ActionEvent>() {
 
                 @Override
                 public void handle(ActionEvent event) {
@@ -45,7 +55,7 @@ public class MachineDeadState implements IMachineState{
                 
             });
 
-            fadeout.play();
+            trans.play();
         } catch (Exception e) {
             System.out.println(e);
         }
